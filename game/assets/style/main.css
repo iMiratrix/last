@@ -1,0 +1,23 @@
+.game {
+    width: 1000px;
+    height: 750px;
+    background: no-repeat url("../../assets/img/orgri.png");
+    border: black solid 1px;
+    margin: auto;
+    color: white;
+
+}
+body{
+    background-color: #f3f3f3;
+}
+#hearts img{
+    width: 50px;
+    height: 50px;
+}
+.ult{
+    margin: 5px;
+    border-top: black solid 1px;
+}
+.pause{
+    color: white;
+}
